@@ -1,0 +1,11 @@
+body {
+  transition: background-image 500ms ease;
+}
+
+.content {
+  margin: 14.3rem auto 0;
+  align-items: center;
+  gap: 2.4rem;
+  text-align: center;
+  animation: topdown 700ms 350ms backwards;
+}
